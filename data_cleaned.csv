@@ -1,0 +1,2142 @@
+marketing-airlines,departure airport,arrival airport,luggage-unit ,flight type,price,time
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,4801,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5286,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5286,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5945,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,6052,80
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,6393,80
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,7335,85
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,7355,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,7572,85
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,7891,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,8052,80
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,8394,95
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8399,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8399,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,9092,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,9119,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,9441,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,9924,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,10051,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,10352,80
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,10824,600
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,10855,95
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,10859,85
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,10978,80
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,1104,95
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,11219,80
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,11301,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,11458,645
+KLM Royal Dutch Airlines,LCY,AMS,1x23 kg,1 Aktarma,11468,645
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,11758,85
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,11943,85
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,12582,775
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,12582,860
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,12582,930
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,143
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,143
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,13027,85
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,13042,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13434,325
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,1349,345
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,14248,80
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,14433,95
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,14905,350
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,14905,420
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,14905,1070
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,15038,630
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,15905,260
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,15905,320
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,15905,335
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,15905,375
+Eurowings,LHR,HAM,El çantası,1 Aktarma,16261,270
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,375
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,425
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,545
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,555
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,605
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,615
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,665
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,17105,410
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,17105,535
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,17105,590
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,17105,605
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,17105,715
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,17105,785
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,17419,265
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,17419,425
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,265
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,325
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,435
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,485
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,495
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,1824,755
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,18303,80
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,18459,270
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18524,250
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,18557,400
+Scandinavian Airlines,LHR,OSL,1x23 kg,1 Aktarma,19295,680
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,19701,295
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,1989,605
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,2037,1000
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,21416,620
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,21609,335
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21658,775
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21808,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21808,350
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,22144,310
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,22501,700
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,22951,310
+TAP Portugal,LHR,LIS,1x23 kg,1 Aktarma,22985,410
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,2475,625
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,600
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,25604,535
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25795,365
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,26129,220
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,26129,270
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,27398,95
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,4469,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5162,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5162,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5397,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5397,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5397,80
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,5704,95
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,6054,90
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6216,80
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,6397,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6504,85
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,6871,85
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6948,142
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,7572,85
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,7841,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,7841,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,7905,935
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8055,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8055,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,8055,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,8336,95
+ITA - Italia Trasporto Aereo,LCY,FCO,El çantası,1 Aktarma,8412,345
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,8498,75
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,8521,95
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,8865,90
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,8928,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,8928,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,8928,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,9071,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,142
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,9178,85
+ITA - Italia Trasporto Aereo,LGW,FCO,El çantası,1 Aktarma,9192,635
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,9395,855
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,10081,85
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,260
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,335
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,340
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,375
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,420
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,465
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,530
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,590
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,600
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,143
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,143
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,11322,95
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11477,265
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,152
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,152
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,11705,90
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,12065,610
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,12466,405
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1259,330
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1259,500
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1259,700
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,147
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,147
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1304,615
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,13125,285
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,13125,465
+KLM Royal Dutch Airlines,LCY,AMS,1x23 kg,1 Aktarma,1377,610
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,13784,620
+Air Europa,LGW,MAD,El çantası,1 Aktarma,14845,445
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,15258,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,15258,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,15986,320
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,16155,700
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,16297,485
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,16444,935
+Royal Air Maroc,LGW,CMN,1x23 kg,1 Aktarma,16709,785
+Royal Air Maroc,LGW,CMN,1x23 kg,1 Aktarma,1692,800
+KM Malta Airlines,LHR,MLA,El çantası,1 Aktarma,17492,495
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,260
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,500
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,545
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,620
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,665
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,805
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,18033,665
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,18175,705
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,325
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18386,375
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18524,205
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,1872,800
+TAP Portugal,LHR,LIS,1x23 kg,1 Aktarma,18833,415
+TAP Portugal,LHR,LIS,1x23 kg,1 Aktarma,18833,530
+TAP Portugal,LHR,LIS,1x23 kg,1 Aktarma,18833,715
+TAP Portugal,LHR,LIS,1x23 kg,1 Aktarma,18833,795
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,18862,345
+Air Algerie,STN,ALG,1x23 kg,1 Aktarma,19025,435
+Vueling Airlines,LGW,BCN,1x25 kg,1 Aktarma,19095,580
+Royal Air Maroc,LHR,CMN,1x23 kg,1 Aktarma,19529,710
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,20349,635
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,20452,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,20452,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,20452,365
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21811,350
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,22731,295
+Norwegian Air Shuttle,LGW,BGO,El çantası,1 Aktarma,23107,565
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,23527,710
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,24366,775
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,25093,260
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25984,265
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,26146,785
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26674,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26674,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26674,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,27636,95
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,2835,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,2835,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,2835,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,2835,80
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,3019,85
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,3019,85
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,3392,80
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,3469,95
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,3894,80
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,5167,85
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,5167,85
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,5263,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,5263,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,5263,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,5263,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,5372,85
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,5372,85
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,5607,95
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,5687,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,5687,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,5687,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,5687,145
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,5807,95
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,5814,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,5989,860
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,6177,75
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,6214,820
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,6304,144
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6304,144
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,6317,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6452,75
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,6459,940
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6613,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,6948,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6948,149
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,7545,610
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,255
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,7887,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,7887,140
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,7907,335
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,7907,375
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,7907,465
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8355,650
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,8445,85
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,8445,85
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,350
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,420
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,1070
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8884,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,8928,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,9035,450
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,9045,80
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,9085,95
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,151
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,9668,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,9963,600
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,10051,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,10063,375
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,260
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,290
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,320
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,380
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,470
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,10125,560
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,1017,350
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,1017,645
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,141
+Tunisair,LGW,TUN,El çantası,1 Aktarma,10884,415
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,11029,345
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,11137,1000
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,11468,410
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11477,375
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11591,700
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,11613,1040
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,141
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,11808,385
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,11925,310
+Iberia,LHR,BCN,1x23 kg,1 Aktarma,1208,610
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,12189,325
+Tunisair,LGW,TUN,El çantası,1 Aktarma,12206,525
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,12825,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,150
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,13084,620
+TAP Portugal,LHR,LIS,El çantası,1 Aktarma,1309,795
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13571,775
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13571,825
+Swiss,LCY,ZRH,1x23 kg,1 Aktarma,13608,240
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,13905,820
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,14052,250
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,14052,285
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,14443,605
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15655,350
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15821,300
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15966,260
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15966,380
+Eurowings,LHR,HAM,El çantası,1 Aktarma,16274,255
+Luxair,LCY,LUX,Kabin bagajı,1 Aktarma,17488,195
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,17936,260
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,450
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18386,365
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,18473,255
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,18612,195
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,1872,450
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21811,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21811,325
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,23527,565
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,25204,435
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,275
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26013,80
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,1904,85
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,2399,95
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,2782,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,2782,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,2835,70
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,2839,90
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,2996,80
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,3019,85
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,3704,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,3894,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,4222,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,4446,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,4562,95
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,4767,95
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,5032,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,5032,145
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,5108,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,5162,70
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,5167,85
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,5167,90
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,5236,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,5372,85
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,5372,90
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,5504,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,5687,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,5687,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,5687,144
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,5687,144
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,6216,80
+Eurowings,LHR,HAM,El çantası,1 Aktarma,6217,255
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,6304,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6304,149
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,260
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,290
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,320
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,335
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,375
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,380
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,465
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,470
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,6783,80
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,6804,715
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,6804,785
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,6948,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6948,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,6948,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6948,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,6948,154
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6948,154
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,7083,85
+KM Malta Airlines,LGW,MLA,El çantası,1 Aktarma,7183,430
+ITA - Italia Trasporto Aereo,LCY,FCO,El çantası,1 Aktarma,7281,470
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,255
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,535
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,605
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,7639,95
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,8233,90
+KM Malta Airlines,LHR,MLA,El çantası,1 Aktarma,8331,495
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8355,965
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,8445,85
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,8487,255
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8625,690
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8625,850
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,8928,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,8928,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,8928,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8945,660
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,138
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,9305,515
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,9305,590
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,9305,700
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,9668,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,9668,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,9732,275
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,9804,345
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,10051,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,10063,405
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,1017,645
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,150
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,151
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,10631,375
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,1074,400
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,10816,75
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,10818,605
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,10877,265
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,1107,295
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11477,265
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,260
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,425
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,150
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,151
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,11808,250
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,11808,285
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,12574,75
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,12574,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,14052,350
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15966,260
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15966,325
+KLM Royal Dutch Airlines,LCY,AMS,1x23 kg,1 Aktarma,1602,350
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,17936,260
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,375
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21419,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21419,600
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,2175,385
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,2175,715
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,23527,710
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,23527,775
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,325
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,28001,95
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,2464,90
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,2534,95
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,2659,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,2782,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,2782,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,2835,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,2996,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,3728,142
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,3841,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,4446,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,4539,90
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,4562,95
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,4744,85
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,4744,90
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,4767,95
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,5236,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,5263,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,5372,85
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,5477,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,5687,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,5687,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,5687,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,5687,149
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,5899,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,6304,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6304,142
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,6317,80
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,260
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,290
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,320
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,380
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,465
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,470
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,6804,255
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,6804,590
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,6804,715
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,6804,785
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,6948,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6948,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,6948,154
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6948,154
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,350
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,410
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,420
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,535
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,605
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,1070
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,7639,95
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,7863,90
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,7887,144
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,7887,144
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,7887,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,7887,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,7887,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,7887,151
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,7907,335
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,7907,375
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,7907,560
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,8045,80
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,8075,85
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8085,850
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8085,935
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8945,635
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8945,790
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,8957,345
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,9082,605
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,146
+KM Malta Airlines,LGW,MLA,El çantası,1 Aktarma,9177,430
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,9668,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,9668,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,9668,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,9836,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,9963,600
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,10051,75
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,1017,250
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,1017,285
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,10205,615
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,10205,700
+KM Malta Airlines,LHR,MLA,El çantası,1 Aktarma,10428,495
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,151
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,10571,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,10571,80
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,10631,265
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,10877,265
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,10877,275
+KLM Royal Dutch Airlines,LCY,AMS,1x23 kg,1 Aktarma,10962,250
+KLM Royal Dutch Airlines,LCY,AMS,1x23 kg,1 Aktarma,10962,285
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,11586,345
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,260
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,265
+TAP Portugal,LHR,LIS,El çantası,1 Aktarma,11715,395
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,11915,445
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,12466,745
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,12574,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,12825,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,1304,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,1304,85
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13716,260
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,275
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21419,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21672,450
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,23527,710
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,23527,775
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,700
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,25875,645
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,28001,95
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,28241,365
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,28241,380
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,2839,85
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,2889,80
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,2954,95
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,3019,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,3499,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,3606,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,3894,75
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,4199,90
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,4446,80
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,4744,85
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,5111,95
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,5167,85
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,5189,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,5372,85
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,5372,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5398,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,5531,80
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,5807,95
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,5948,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,6055,85
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,6344,75
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,6465,90
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,6746,80
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,6871,90
+ITA - Italia Trasporto Aereo,LCY,FCO,El çantası,1 Aktarma,7281,470
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,7842,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,8045,75
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,8045,80
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,8233,85
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,8391,95
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,8445,85
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,8498,75
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,8498,80
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,255
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,350
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,420
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,715
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,785
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,1070
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8715,410
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,149
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,9665,655
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,9668,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,9668,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,9668,80
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,9817,90
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,9836,375
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,9935,675
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,9935,795
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,9963,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,9963,600
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,10063,250
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,10063,375
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,10205,900
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,10299,350
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,144
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,144
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,151
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,1055,335
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,11396,305
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11591,350
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,365
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,425
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,440
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,485
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,500
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,545
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,151
+TAP Portugal,LHR,LIS,El çantası,1 Aktarma,11715,755
+Tunisair,LGW,TUN,El çantası,1 Aktarma,1173,410
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,11808,375
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,11925,385
+Norwegian Air Shuttle,LGW,BGO,El çantası,1 Aktarma,12187,615
+Eurowings,LHR,HAM,El çantası,1 Aktarma,12328,270
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,12466,605
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,1304,80
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,13084,635
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13571,325
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13571,375
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,14052,285
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,14125,345
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,14528,270
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,15258,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15655,265
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,15806,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15966,300
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,16993,710
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,17413,775
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,275
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18386,365
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,19091,605
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,2175,450
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21811,260
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,23742,260
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26013,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26674,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,27948,95
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,4199,85
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,4734,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,4895,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,4958,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5109,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5163,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5163,80
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5237,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5559,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5612,80
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,6054,85
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,6124,95
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,6177,80
+Eurowings,LHR,HAM,El çantası,1 Aktarma,6217,270
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,6465,85
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,6871,85
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,7547,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,7547,80
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,350
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,420
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,535
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,605
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,1070
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,7761,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,7815,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,7976,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,8083,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8191,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,8405,80
+ITA - Italia Trasporto Aereo,LCY,FCO,El çantası,1 Aktarma,8412,470
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,8487,270
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,8498,75
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,8521,95
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,255
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,260
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8727,80
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,8865,85
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,145
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,9296,600
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,9817,85
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,143
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,143
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,10475,930
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,10816,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,10816,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,10816,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,10855,95
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,260
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,320
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,335
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,375
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,380
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,465
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,600
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,650
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1151,310
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1151,700
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,325
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,615
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,665
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,149
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,11705,85
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1178,535
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1178,625
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,80
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,11859,95
+KM Malta Airlines,LHR,MLA,El çantası,1 Aktarma,12437,460
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,12466,285
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,12574,75
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,1304,80
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,13277,710
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,1349,785
+Swiss,LCY,ZRH,1x23 kg,1 Aktarma,13608,255
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,13784,390
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,245
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,265
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,315
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,365
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,375
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,385
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,425
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,435
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,485
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,505
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,14052,250
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,14052,350
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,14052,385
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,14052,825
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,15258,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15655,690
+KLM Royal Dutch Airlines,LCY,AMS,1x23 kg,1 Aktarma,1602,285
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,16155,310
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,16302,220
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,16302,285
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,16302,375
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,775
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,18303,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18524,645
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18541,380
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,18568,400
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,19244,620
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,20984,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21419,700
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,2175,715
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21811,325
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21811,350
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,21848,590
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,270
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25812,325
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25812,450
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,25875,220
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,25875,825
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25984,260
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25984,375
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,27398,95
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,27927,260
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,3444,85
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,5009,95
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5109,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5163,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5398,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,5969,85
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,5989,690
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,5995,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6398,80
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,6452,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,6948,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6948,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,6948,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6948,141
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,7357,95
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,7455,780
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,7455,850
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,360
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,475
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,7633,325
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,7887,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,7887,138
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,7923,80
+ITA - Italia Trasporto Aereo,LGW,FCO,El çantası,1 Aktarma,7926,635
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8003,75
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,8083,640
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8271,80
+ITA - Italia Trasporto Aereo,LCY,FCO,El çantası,1 Aktarma,8412,340
+ITA - Italia Trasporto Aereo,LCY,FCO,El çantası,1 Aktarma,8412,720
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,8928,80
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,9077,85
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,9206,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,9287,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,9305,320
+Tunisair,LGW,TUN,El çantası,1 Aktarma,9895,875
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,9963,830
+Iberia,LHR,BCN,1x23 kg,1 Aktarma,10139,690
+KM Malta Airlines,LGW,MLA,El çantası,1 Aktarma,10182,430
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,10299,250
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,10299,270
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,138
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,10678,95
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,10816,80
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,10877,350
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,260
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,315
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,380
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,465
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,590
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,600
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,660
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,715
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11591,325
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11591,375
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,265
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,325
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,440
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,500
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,560
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,620
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,685
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,745
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,805
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11675,865
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,138
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11729,365
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,11798,680
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,11798,740
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,11925,295
+Luxair,LCY,LUX,Kabin bagajı,1 Aktarma,11988,195
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,12367,925
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,12825,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,139
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,139
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,147
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,147
+KM Malta Airlines,LHR,MLA,El çantası,1 Aktarma,12913,495
+TAP Portugal,LHR,LIS,El çantası,1 Aktarma,13037,875
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,1349,565
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,13709,195
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13716,265
+TAP Portugal,LHR,LIS,El çantası,1 Aktarma,1383,410
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15966,265
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,15986,310
+Royal Air Maroc,LHR,CMN,1x23 kg,1 Aktarma,15986,670
+Luxair,LCY,LUX,Kabin bagajı,1 Aktarma,17488,395
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,350
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,915
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,18612,395
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21672,325
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,21981,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26674,75
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,2772,95
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,3892,80
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,4466,85
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5945,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6212,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6212,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,6634,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6715,80
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,6871,85
+KM Malta Airlines,LHR,MLA,El çantası,1 Aktarma,7538,690
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,7572,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,7676,85
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,8077,80
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,8394,95
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,8667,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8801,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8801,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,8928,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,8928,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8984,690
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,9334,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,10018,780
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,10081,85
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,10245,85
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,10423,680
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,10423,740
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,10423,770
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,152
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,152
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,1074,800
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,10855,95
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,10963,860
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,1104,95
+KM Malta Airlines,LGW,MLA,El çantası,1 Aktarma,11118,430
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,11458,930
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,11613,1000
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,11795,325
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,11905,745
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,11978,630
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,11978,640
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,12036,1040
+Tunisair,LGW,TUN,El çantası,1 Aktarma,12259,875
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,12274,745
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,12596,925
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,12764,650
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,12807,675
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,144
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,144
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,147
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,147
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,152
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,152
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13372,865
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,265
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,325
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,440
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,500
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,560
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,620
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,745
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,805
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,865
+KM Malta Airlines,LHR,MLA,El çantası,1 Aktarma,13971,495
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,14433,95
+ITA - Italia Trasporto Aereo,LCY,FCO,El çantası,1 Aktarma,14633,720
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,14732,460
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,14732,485
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,14732,705
+Royal Air Maroc,LHR,CMN,1x23 kg,1 Aktarma,14738,670
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,14905,475
+Air Europa,LGW,MAD,El çantası,1 Aktarma,1511,445
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,15258,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15655,265
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,15804,75
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15811,915
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,15986,240
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16196,985
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16196,985
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,385
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,625
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,685
+Royal Air Maroc,LHR,CMN,1x23 kg,1 Aktarma,16938,710
+Air Serbia,LHR,BEG,Kabin bagajı,1 Aktarma,17104,740
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,17105,360
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,17419,425
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,18107,395
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,18303,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18375,830
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18524,270
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18539,365
+Austrian,LHR,VIE,1x23 kg,1 Aktarma,1913,750
+Air Serbia,LHR,BEG,1x23 kg,1 Aktarma,19547,740
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21808,265
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,21992,350
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,26264,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,2667,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,2667,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,27398,95
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,28149,300
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,4801,90
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,5586,85
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5837,80
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,6286,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6393,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,6393,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6554,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6833,75
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,6948,142
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,7572,90
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,7623,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,8052,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,8586,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8958,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,9065,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,9119,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,9173,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,9387,75
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,9569,635
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,10137,75
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,10288,850
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,10489,90
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,10656,80
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,10873,95
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,11229,85
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,75
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,11918,610
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,12312,775
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,143
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,143
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,144
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,144
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,147
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,147
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,152
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,152
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13714,600
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,545
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,560
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,605
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,620
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,665
+Iberia,LHR,BCN,1x23 kg,1 Aktarma,1483,635
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,15258,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15655,505
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15811,480
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15811,825
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,16145,710
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,16272,405
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,365
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,425
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,485
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,500
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,865
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,16595,700
+Scandinavian Airlines,LHR,OSL,1x23 kg,1 Aktarma,16915,485
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,17179,605
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,17306,95
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,260
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,440
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,625
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,685
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,805
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,17588,465
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,17588,620
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,17629,295
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,18303,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,18303,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18375,690
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18375,740
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,1866,795
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18709,700
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,18753,475
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,18904,285
+Norwegian Air Shuttle,LGW,BGO,El çantası,1 Aktarma,19499,565
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,19499,635
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,19998,485
+Air Europa,LGW,MAD,El çantası,1 Aktarma,20081,445
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,20357,1000
+Vueling Airlines,LGW,BCN,1x25 kg,1 Aktarma,21398,580
+Vueling Airlines,LGW,BCN,1x25 kg,1 Aktarma,21398,660
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21419,350
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21658,915
+Vueling Airlines,LHR,BCN,1x25 kg,1 Aktarma,21711,635
+ITA - Italia Trasporto Aereo,LCY,FCO,El çantası,1 Aktarma,21779,345
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,21809,95
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,21975,665
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,21992,800
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,21994,95
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,22051,255
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,22051,395
+Scandinavian Airlines,LHR,ARN,1x23 kg,1 Aktarma,22524,775
+Brussels Airlines,LHR,BRU,1x23 kg,1 Aktarma,23222,760
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,23253,705
+Scandinavian Airlines,LHR,OSL,1x23 kg,1 Aktarma,23924,505
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,23994,1000
+ITA - Italia Trasporto Aereo,LGW,FCO,El çantası,1 Aktarma,24201,635
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,24959,325
+Austrian,LHR,VIE,1x23 kg,1 Aktarma,25446,300
+Austrian,LHR,VIE,1x23 kg,1 Aktarma,25446,415
+Austrian,LHR,VIE,1x23 kg,1 Aktarma,25446,485
+Austrian,LHR,VIE,1x23 kg,1 Aktarma,25446,555
+Austrian,LHR,VIE,1x23 kg,1 Aktarma,25446,600
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25795,830
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25981,260
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25981,375
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,26129,785
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,2667,75
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,2667,80
+TAP Portugal,LGW,OPO,1x23 kg,1 Aktarma,27267,590
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,27909,375
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,28149,320
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,3496,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,3604,75
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,3687,85
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,3912,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,4442,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,4657,80
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5159,80
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5554,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5608,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5662,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,5969,85
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,5995,85
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,5995,85
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,6105,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,6158,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,6158,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,6456,850
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,6992,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,7354,80
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,255
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,7836,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,8045,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8158,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,8211,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8211,80
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,715
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,785
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,8928,75
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,142
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,9288,85
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,144
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,144
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,149
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,10816,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,10816,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,10855,95
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,11029,345
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,1104,95
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,11402,1000
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11477,600
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,11877,1040
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,12179,565
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,12321,645
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,12644,345
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,150
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,150
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,13018,435
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,13038,95
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,13167,620
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,13543,400
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,13543,675
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13563,790
+Swiss,LCY,ZRH,1x23 kg,1 Aktarma,13608,240
+KLM Royal Dutch Airlines,LCY,AMS,1x23 kg,1 Aktarma,13762,645
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,265
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,325
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,13886,655
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,14072,615
+Tunisair,LGW,TUN,El çantası,1 Aktarma,14585,415
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,14696,800
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,14706,485
+Air Baltic,LGW,RIX,Kabin bagajı,1 Aktarma,14749,485
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,15258,80
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,15362,340
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,15362,405
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,15362,480
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,15362,545
+KM Malta Airlines,LGW,MLA,El çantası,1 Aktarma,15401,430
+Scandinavian Airlines,LHR,OSL,1x23 kg,1 Aktarma,15403,680
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15655,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15964,350
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15964,380
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,15986,310
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,385
+Tunisair,LGW,TUN,El çantası,1 Aktarma,16468,525
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17337,985
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,17925,350
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18375,775
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18709,820
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,18753,435
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18875,270
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,2175,375
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,21981,80
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,22215,195
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,22764,605
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,25077,255
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,265
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,25875,405
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,25875,410
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,26129,450
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,26264,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,27398,95
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,2328,85
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,3217,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,3496,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,3604,80
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,3604,80
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,3667,95
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,3731,80
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,4197,90
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,4248,85
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,4539,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,4657,80
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,5167,85
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,5372,85
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,5944,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,5944,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,5944,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,6051,80
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,6177,95
+Eurowings,LHR,HAM,El çantası,1 Aktarma,6212,255
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,6456,635
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,6465,90
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,6725,690
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,6804,255
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,6804,350
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,6804,420
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,6871,90
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,7005,850
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,7046,80
+KM Malta Airlines,LGW,MLA,El çantası,1 Aktarma,7183,430
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,7275,785
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,260
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,410
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,535
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,605
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,7758,85
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8125,515
+KM Malta Airlines,LHR,MLA,El çantası,1 Aktarma,8331,495
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,440
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,590
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,715
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,785
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,8762,85
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,9154,150
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,9154,150
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,9298,95
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,9817,90
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,144
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,144
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,151
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,154
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,154
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,11029,345
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11584,375
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,142
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,11918,310
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,12064,250
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,12574,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,12574,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Lufthansa,LHR,MUC,1x23 kg,1 Aktarma,12999,570
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,13277,260
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,13277,295
+Lufthansa,LHR,MUC,1x23 kg,1 Aktarma,13282,445
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,13428,600
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13563,325
+Swiss,LCY,ZRH,1x23 kg,1 Aktarma,13608,220
+Swiss,LCY,ZRH,1x23 kg,1 Aktarma,13608,255
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13714,275
+KLM Royal Dutch Airlines,LCY,AMS,1x23 kg,1 Aktarma,13762,645
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,245
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,265
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,325
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,365
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,385
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,425
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,440
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,485
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,500
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,505
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,545
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,560
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,605
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,620
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,13896,335
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,14051,270
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,1467,620
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,15059,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,15258,80
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,15341,385
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15964,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15964,365
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,16982,795
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,17257,605
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18539,265
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,21981,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,21981,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,21981,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,300
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25795,450
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,25875,295
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26013,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26013,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26013,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26013,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,26129,450
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,27847,95
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,28241,325
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,3892,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,4838,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5052,80
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,5341,95
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5394,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,5394,80
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,5586,85
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,6212,80
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,260
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,290
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,320
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,335
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,375
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,6376,465
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,6607,80
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,6608,80
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,6804,590
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,6804,715
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,6804,785
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,255
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,410
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,535
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,605
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,7782,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,7836,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,7836,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,7887,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,7887,145
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,8125,635
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,8521,95
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,8865,90
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,8958,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,9334,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,10648,790
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,10998,95
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,11029,345
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,11229,85
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,380
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,11503,630
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,11503,700
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,144
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,144
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,154
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,154
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11728,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11728,350
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11728,600
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,11808,250
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,12064,310
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,12278,470
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,12278,560
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,1234,90
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,12537,525
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,12574,75
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,13277,265
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,13428,265
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,13428,600
+Swiss,LCY,ZRH,1x23 kg,1 Aktarma,13608,220
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13714,265
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,260
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,440
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,500
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,15423,745
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15655,275
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,15676,265
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,15804,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,15804,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,15804,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15811,325
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15964,325
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,15986,270
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,16563,795
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,18303,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,18303,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,18303,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18375,690
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18875,220
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,22436,605
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,25077,255
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,300
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,2667,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,2667,85
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,2772,95
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,28149,295
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,28149,410
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,6614,85
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,6837,80
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,7339,85
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,7339,90
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,7359,80
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,7364,95
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,7413,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,8057,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,8217,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,8486,75
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,8865,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,9555,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,9902,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,10385,80
+KM Malta Airlines,LGW,MLA,El çantası,1 Aktarma,10483,430
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,10529,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,10816,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,10855,95
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,1104,95
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,11065,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,11226,80
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,260
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,290
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,320
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,335
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,11273,380
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,11494,75
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,11758,85
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,11758,90
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,11808,310
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,11943,85
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,11943,90
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,12275,655
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,12278,375
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,12278,465
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,12278,470
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,12278,560
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,1234,85
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,12513,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,12574,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,12815,410
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1286,795
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,144
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,144
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,13027,85
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,13027,90
+Norwegian Air Shuttle,LGW,BGO,El çantası,1 Aktarma,13027,650
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,1304,75
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,1304,80
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,1304,95
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,13277,965
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13716,450
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,440
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,500
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,620
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,14052,370
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,14075,545
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,14075,675
+Tunisair,LGW,TUN,El çantası,1 Aktarma,14533,410
+Tunisair,LGW,TUN,El çantası,1 Aktarma,14533,510
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,14905,440
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,14905,590
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,14905,715
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,1491,985
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,15258,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,15806,80
+KLM Royal Dutch Airlines,LCY,AMS,1x23 kg,1 Aktarma,1602,370
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,16297,345
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,17595,900
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,350
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,600
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,18303,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18524,270
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,18671,635
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,1872,645
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,20984,75
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,20984,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,20984,80
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,21133,605
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21419,375
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,2175,450
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21811,380
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,23527,795
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,260
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,825
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,25875,250
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,26264,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,26321,715
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,27398,95
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,28149,220
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,28241,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,28241,275
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,5235,365
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,8194,85
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,350
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,420
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,715
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,785
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,7553,1070
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,8194,85
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,8648,80
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,8684,590
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,8966,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,8966,80
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,9234,80
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,9234,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,9341,75
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,9427,600
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,9503,75
+KLM Royal Dutch Airlines,LCY,AMS,1x23 kg,1 Aktarma,9931,645
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,10093,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,10612,80
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,10879,95
+ITA - Italia Trasporto Aereo,LCY,LIN,El çantası,1 Aktarma,11468,255
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,141
+Scandinavian Airlines,LHR,ARN,1x23 kg,1 Aktarma,11704,355
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,11758,85
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,11758,85
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,11817,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,11925,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,11943,85
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,11943,85
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,12193,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,12274,75
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,12461,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,12461,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,12649,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,1281,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,12825,75
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,143
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,143
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,13829,80
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,375
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,385
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,425
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,435
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,485
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,555
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,605
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,615
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,665
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,13926,85
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,13926,85
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,14109,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,14109,142
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,14435,860
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1475,700
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1484,775
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,15258,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,15258,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1529,930
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,15335,625
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15821,840
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,15975,690
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,15986,450
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,16245,310
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,16245,535
+Eurowings,LHR,HAM,El çantası,1 Aktarma,16274,270
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,265
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,325
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,495
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,545
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,17309,95
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,17419,295
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,245
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,17619,485
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,17619,705
+Swiss,LCY,ZRH,1x23 kg,1 Aktarma,1775,255
+Lufthansa,LCY,FRA,1x23 kg,1 Aktarma,18087,295
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,600
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,18303,80
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18386,790
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,18473,270
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18524,645
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18541,450
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,1872,885
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18878,220
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18878,410
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,19254,335
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,1962,635
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,19935,710
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,21133,605
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,2175,785
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,21809,95
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,21823,400
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,21981,80
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,21994,95
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,260
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,375
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,690
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25544,700
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,25624,620
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,25875,735
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25984,380
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,26146,250
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,26264,80
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,4804,85
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5787,80
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,6871,85
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,7455,780
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,7455,850
+KM Malta Airlines,LHR,MLA,El çantası,1 Aktarma,7538,690
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,7572,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,8164,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,8378,80
+Vueling Airlines,LHR,ORY,El çantası,Direkt Uçuş,8399,95
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,8911,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,9017,80
+ITA - Italia Trasporto Aereo,LGW,FCO,El çantası,1 Aktarma,9192,635
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,9427,830
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,9715,85
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,9984,80
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,10301,630
+Iberia,LGW,BCN,1x23 kg,1 Aktarma,10301,640
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,144
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,144
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,1046,152
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,1046,152
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,10489,85
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,10816,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,10855,95
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,1104,95
+KM Malta Airlines,LGW,MLA,El çantası,1 Aktarma,11118,430
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,11186,1060
+KLM Royal Dutch Airlines,LHR,AMS,1x23 kg,1 Aktarma,11308,365
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,1144,75
+Iberia,LHR,BCN,1x23 kg,1 Aktarma,11498,690
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,11591,480
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,11628,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,11676,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,11676,140
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,11915,675
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,11925,375
+KLM Royal Dutch Airlines,LCY,AMS,1x23 kg,1 Aktarma,12013,350
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,12065,240
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,12065,270
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,12111,80
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1223,320
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1259,440
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,12644,680
+Luxair,LCY,LUX,Kabin bagajı,1 Aktarma,12708,195
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,12764,650
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,12825,80
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,147
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,147
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,12942,85
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,1304,75
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,1304,80
+Royal Air Maroc,LHR,CMN,1x23 kg,1 Aktarma,13046,670
+Royal Air Maroc,LHR,CMN,1x23 kg,1 Aktarma,13046,710
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,13157,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,1321,80
+Royal Air Maroc,LGW,CMN,1x23 kg,1 Aktarma,13399,800
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13571,910
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13716,265
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,260
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,380
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,440
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,500
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,560
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,620
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,745
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,805
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,13882,865
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,13905,295
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,13905,300
+Air Europa,LGW,MAD,El çantası,1 Aktarma,14052,445
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,14109,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,14109,142
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,14413,195
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,14416,1000
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,14435,95
+Royal Air Maroc,LGW,CMN,1x23 kg,1 Aktarma,15091,785
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,15258,80
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,15314,745
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,15314,865
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15655,830
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15821,325
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15821,450
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,15966,265
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16196,925
+Luxair,LCY,LUX,Kabin bagajı,1 Aktarma,16228,395
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,16297,460
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,16297,485
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,265
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,325
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,17757,395
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,350
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,365
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,18193,915
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,18303,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,18303,80
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18524,350
+Air Algerie,STN,ALG,1x23 kg,1 Aktarma,19025,435
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21672,375
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21811,325
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26674,80
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,26674,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,27398,95
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,4228,80
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,5161,90
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,5945,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6052,75
+easyJet,LTN,CDG,El çantası,Direkt Uçuş,6052,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6212,80
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,6393,75
+easyJet,LGW,CDG,El çantası,Direkt Uçuş,7208,80
+Vueling Airlines,LGW,ORY,El çantası,Direkt Uçuş,7335,85
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,7572,90
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,8292,80
+easyJet,LTN,CDG,1x23 kg,Direkt Uçuş,8399,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8667,75
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,8865,85
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,8878,80
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,9038,75
+easyJet,LGW,CDG,1x23 kg,Direkt Uçuş,9843,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,10855,95
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,10859,90
+Scandinavian Airlines,LHR,CPH,1x23 kg,1 Aktarma,11029,345
+British Airways,LHR,ORY,1x23 kg,Direkt Uçuş,1104,95
+Iberia,LGW,ORY,1x23 kg,Direkt Uçuş,11758,85
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,75
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,11821,80
+British Airways,LGW,ORY,1x23 kg,Direkt Uçuş,11943,85
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,1234,85
+British Airways,LHR,CDG,Kabin bagajı,Direkt Uçuş,12574,75
+Tunisair,LGW,TUN,El çantası,1 Aktarma,12788,510
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,138
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,140
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,140
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,141
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,142
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,144
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,144
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,145
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,146
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,149
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,3x30 kg,Direkt Uçuş,12892,151
+Eurostar,QQS,XPG,2x23 kg,Direkt Uçuş,12892,151
+Vueling Airlines,LGW,ORY,1x25 kg,Direkt Uçuş,13027,85
+Vueling Airlines,LHR,ORY,1x25 kg,Direkt Uçuş,13038,95
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13434,325
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13563,600
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13714,265
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,13714,350
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,13765,250
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,14051,310
+Eurowings,LHR,HAM,El çantası,1 Aktarma,14463,255
+Luxair,LCY,LUX,1x23 kg,1 Aktarma,15038,970
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,15315,1040
+Lufthansa,LHR,MUC,1x23 kg,1 Aktarma,15715,1060
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1574,525
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,15905,260
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,15905,290
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,15905,320
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,15905,335
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,15905,375
+Air France,LHR,NCE,Kabin bagajı,1 Aktarma,15905,380
+Aer Lingus,LHR,DUB,1x20 kg,1 Aktarma,15928,1000
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,16055,375
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,365
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,425
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,485
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,545
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,16309,665
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,1637,400
+Eurowings,LHR,HAM,1x23 kg,1 Aktarma,16851,255
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,17419,265
+Swiss,LHR,ZRH,1x23 kg,1 Aktarma,17419,425
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,245
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,320
+Lufthansa,LHR,FRA,1x23 kg,1 Aktarma,17504,380
+Brussels Airlines,LHR,BRU,1x23 kg,1 Aktarma,17936,760
+Air Baltic,LGW,RIX,Kabin bagajı,1 Aktarma,17954,485
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,18709,335
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,19023,675
+Norwegian Air Shuttle,LGW,BGO,El çantası,1 Aktarma,19079,630
+Norwegian Air International,LGW,CPH,El çantası,1 Aktarma,1989,605
+Norwegian Air Shuttle,LGW,OSL,El çantası,1 Aktarma,20337,795
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,21062,655
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21419,260
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21658,365
+KLM Royal Dutch Airlines,LCY,AMS,Kabin bagajı,1 Aktarma,2175,270
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,21808,265
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,22951,795
+Vueling Airlines,LHR,BCN,El çantası,1 Aktarma,2403,900
+Norwegian Air Shuttle,LGW,OSL,Kabin bagajı,1 Aktarma,25609,635
+KLM Royal Dutch Airlines,LHR,AMS,Kabin bagajı,1 Aktarma,25981,260
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,26264,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,26264,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,26264,80
+Air France,LHR,CDG,Kabin bagajı,Direkt Uçuş,26264,80
+Iberia,LHR,ORY,1x23 kg,Direkt Uçuş,27398,95
